@@ -1,0 +1,25 @@
+# Environment variables (contain secrets!)
+.env
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Logs
+*.log
+
+# Runtime data
+seen_listings.json
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
